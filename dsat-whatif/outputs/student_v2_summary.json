@@ -1,0 +1,104 @@
+{
+  "student_id": "66ad3ea0711e23168f7a937a",
+  "title": "D-SAT Adaptive Test 01",
+  "current_total_scaled": 1170,
+  "current_by_section": {
+    "Reading and Writing": {
+      "raw": 36,
+      "scaled": 610,
+      "module2_difficulty": "hard"
+    },
+    "Math": {
+      "raw": 23,
+      "scaled": 560,
+      "module2_difficulty": "hard"
+    }
+  },
+  "top5": [
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "659e991004e80b72d57ac8c2",
+      "unit": "Advanced Maths",
+      "topic": "Nonlinear functions",
+      "difficulty": "moderate",
+      "time_spent": 14418,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 23,
+      "raw_after": 24,
+      "scaled_before": 560,
+      "scaled_after": 570
+    },
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "65b8bcea117be8dcc30c340e",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Circle Equations",
+      "difficulty": "moderate",
+      "time_spent": 30764,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 23,
+      "raw_after": 24,
+      "scaled_before": 560,
+      "scaled_after": 570
+    },
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "659e991004e80b72d57ac8db",
+      "unit": "Advanced Maths",
+      "topic": "Nonlinear functions",
+      "difficulty": "moderate",
+      "time_spent": 9183,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 23,
+      "raw_after": 24,
+      "scaled_before": 560,
+      "scaled_after": 570
+    },
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "65ae7e3e836c92e3d55d8cf3",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Area",
+      "difficulty": "moderate",
+      "time_spent": 109700,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 23,
+      "raw_after": 24,
+      "scaled_before": 560,
+      "scaled_after": 570
+    },
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "65b8bbf6117be8dcc30c33c9",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Right Triangle Geometry",
+      "difficulty": "hard",
+      "time_spent": 37899,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 23,
+      "raw_after": 24,
+      "scaled_before": 560,
+      "scaled_after": 570
+    }
+  ],
+  "threshold_used": 0.5,
+  "notes": [
+    "Module 1 flips can also upgrade Module 2 from easy→hard if threshold is crossed.",
+    "Impacts include both raw→scaled change and any adaptive difficulty upgrade."
+  ]
+}

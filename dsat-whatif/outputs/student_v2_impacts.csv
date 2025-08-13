@@ -1,0 +1,40 @@
+subject,module,module2_difficulty_current,question_id,unit,topic,difficulty,time_spent,impact_total_scaled,impact_section_scaled,raw_before,raw_after,scaled_before,scaled_after
+Math,1,hard,659e991004e80b72d57ac8c2,Advanced Maths,Nonlinear functions,moderate,14418,10,10,23,24,560,570
+Math,1,hard,65b8bcea117be8dcc30c340e,Geometry and Trigonometry,Circle Equations,moderate,30764,10,10,23,24,560,570
+Math,1,hard,659e991004e80b72d57ac8db,Advanced Maths,Nonlinear functions,moderate,9183,10,10,23,24,560,570
+Math,1,hard,65ae7e3e836c92e3d55d8cf3,Geometry and Trigonometry,Area,moderate,109700,10,10,23,24,560,570
+Math,1,hard,65b8bbf6117be8dcc30c33c9,Geometry and Trigonometry,Right Triangle Geometry,hard,37899,10,10,23,24,560,570
+Math,1,hard,65b14a3e836c92e3d55d962e,Advanced Maths,Nonlinear functions,hard,6030,10,10,23,24,560,570
+Math,1,hard,659e25cd04e80b72d57ac4a3,Algebra,Linear equations in two variables,hard,4999,10,10,23,24,560,570
+Math,1,hard,65aa7f51ea9130b9997676b6,Advanced Maths,Nonlinear equations,hard,5386,10,10,23,24,560,570
+Math,2,hard,659e25cd04e80b72d57ac56c,Algebra,Linear equations in one variable,moderate,9285,10,10,23,24,560,570
+Math,2,hard,659e25cd04e80b72d57ac58a,Algebra,Linear equations in two variables,moderate,11887,10,10,23,24,560,570
+Math,2,hard,659e942904e80b72d57ac865,Problem Solving and Data Analysis,"Ratios, Rates, And Proportions",moderate,4375,10,10,23,24,560,570
+Math,2,hard,65b9dcbc117be8dcc30c3730,Geometry and Trigonometry,Circle Theorems,hard,16351,10,10,23,24,560,570
+Math,2,hard,659e4bd804e80b72d57ac66f,Algebra,Linear inequalities in one or two variables,hard,75395,10,10,23,24,560,570
+Math,2,hard,659ee77604e80b72d57acb8c,Advanced Maths,Systems of Non-linear equations in two variables,hard,5276,10,10,23,24,560,570
+Math,2,hard,659e4bd804e80b72d57ac71e,Algebra,Linear equations in two variables,hard,3571,10,10,23,24,560,570
+Math,2,hard,659e4bd804e80b72d57ac723,Algebra,Linear equations in two variables,hard,6398,10,10,23,24,560,570
+Math,2,hard,659e25cd04e80b72d57ac4cf,Algebra,Systems of two linear equations in two variables,hard,24136,10,10,23,24,560,570
+Math,2,hard,65b1435e836c92e3d55d948f,Geometry and Trigonometry,Trigonometry,hard,2890,10,10,23,24,560,570
+Math,2,hard,65af5bcb836c92e3d55d9117,Problem Solving and Data Analysis,Calculating Mean,hard,87878,10,10,23,24,560,570
+Math,2,hard,659e4bd804e80b72d57ac69e,Algebra,Linear functions,hard,4135,10,10,23,24,560,570
+Math,2,hard,65ae7a6d836c92e3d55d8c0d,Geometry and Trigonometry,"Lines, angles, and triangles",hard,5210,10,10,23,24,560,570
+Reading and Writing,1,hard,65b69f50851bdafef08a0bd3,Information and Ideas,Command of Evidence - Textual,hard,147774,10,10,36,37,610,620
+Reading and Writing,1,hard,658f25fb1d3470ce13e93dea,Information and Ideas,Inferences,moderate,150990,10,10,36,37,610,620
+Reading and Writing,1,hard,659008b11d3470ce13e93fc0,Standard English Conventions,Subject-verb agreement,moderate,73766,10,10,36,37,610,620
+Reading and Writing,1,hard,659009781d3470ce13e93fed,Standard English Conventions,Boundaries,hard,39057,10,10,36,37,610,620
+Reading and Writing,1,hard,659009f21d3470ce13e9400b,Standard English Conventions,Boundaries,hard,52034,10,10,36,37,610,620
+Reading and Writing,1,hard,65901c5d1d3470ce13e942eb,Expression of Ideas,Transitions,moderate,19093,10,10,36,37,610,620
+Reading and Writing,1,hard,65901d081d3470ce13e942f5,Expression of Ideas,Transitions,moderate,52134,10,10,36,37,610,620
+Reading and Writing,2,hard,65903fbc1d3470ce13e945fc,Craft and Structure,Words in context,easy,51276,10,10,36,37,610,620
+Reading and Writing,2,hard,659040bd1d3470ce13e9461f,Craft and Structure,Words in context,hard,80598,10,10,36,37,610,620
+Reading and Writing,2,hard,65b6a017851bdafef08a0bec,Information and Ideas,Central ideas and details,hard,158801,10,10,36,37,610,620
+Reading and Writing,2,hard,658f280d1d3470ce13e93e26,Information and Ideas,Command of Evidence - Quantitative,moderate,94595,10,10,36,37,610,620
+Reading and Writing,2,hard,658f26e11d3470ce13e93e03,Information and Ideas,Command of Evidence - Textual,hard,111721,10,10,36,37,610,620
+Reading and Writing,2,hard,65b69f95851bdafef08a0bdd,Information and Ideas,Command of Evidence - Quantitative,hard,90858,10,10,36,37,610,620
+Reading and Writing,2,hard,658f258d1d3470ce13e93ddb,Information and Ideas,Inferences,hard,44532,10,10,36,37,610,620
+Reading and Writing,2,hard,659012741d3470ce13e9414d,Standard English Conventions,Pronoun-antecedent agreement,moderate,41648,10,10,36,37,610,620
+Reading and Writing,2,hard,659007d81d3470ce13e93f93,Standard English Conventions,Boundaries,hard,17853,10,10,36,37,610,620
+Reading and Writing,2,hard,659009481d3470ce13e93fe3,Standard English Conventions,Identifying Verb-form,hard,41176,10,10,36,37,610,620
+Reading and Writing,2,hard,65901bbe1d3470ce13e942d7,Expression of Ideas,Transitions,moderate,26357,10,10,36,37,610,620

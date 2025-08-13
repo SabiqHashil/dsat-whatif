@@ -1,0 +1,9 @@
+subject,module,module2_difficulty_current,question_id,unit,topic,difficulty,time_spent,impact_total_scaled,impact_section_scaled,raw_before,raw_after,scaled_before,scaled_after
+Math,1,hard,65ae7e3e836c92e3d55d8cf3,Geometry and Trigonometry,Area,moderate,61409,20,20,40,41,740,760
+Math,1,hard,65aa7f51ea9130b9997676b6,Advanced Maths,Nonlinear equations,hard,303872,20,20,40,41,740,760
+Math,2,hard,65b9dcbc117be8dcc30c3730,Geometry and Trigonometry,Circle Theorems,hard,138170,20,20,40,41,740,760
+Math,2,hard,65ae7a6d836c92e3d55d8c0d,Geometry and Trigonometry,"Lines, angles, and triangles",hard,348497,20,20,40,41,740,760
+Reading and Writing,1,hard,659041da1d3470ce13e94642,Craft and Structure,Text structure and purpose,hard,58969,10,10,50,51,750,760
+Reading and Writing,1,hard,65901ab81d3470ce13e942b4,Expression of Ideas,Rhetorical Synthesis,moderate,32182,10,10,50,51,750,760
+Reading and Writing,2,hard,658f280d1d3470ce13e93e26,Information and Ideas,Command of Evidence - Quantitative,moderate,86345,10,10,50,51,750,760
+Reading and Writing,2,hard,6590076f1d3470ce13e93f7f,Standard English Conventions,Boundaries,hard,21815,10,10,50,51,750,760

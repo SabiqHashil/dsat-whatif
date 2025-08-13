@@ -1,0 +1,104 @@
+{
+  "student_id": "65aafd6d9acfd21d1abbfaae",
+  "title": "D-SAT Adaptive Test 01",
+  "current_total_scaled": 1490,
+  "current_by_section": {
+    "Reading and Writing": {
+      "raw": 50,
+      "scaled": 750,
+      "module2_difficulty": "hard"
+    },
+    "Math": {
+      "raw": 40,
+      "scaled": 740,
+      "module2_difficulty": "hard"
+    }
+  },
+  "top5": [
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "65ae7e3e836c92e3d55d8cf3",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Area",
+      "difficulty": "moderate",
+      "time_spent": 61409,
+      "impact_total_scaled": 20,
+      "impact_section_scaled": 20,
+      "raw_before": 40,
+      "raw_after": 41,
+      "scaled_before": 740,
+      "scaled_after": 760
+    },
+    {
+      "subject": "Math",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "65aa7f51ea9130b9997676b6",
+      "unit": "Advanced Maths",
+      "topic": "Nonlinear equations",
+      "difficulty": "hard",
+      "time_spent": 303872,
+      "impact_total_scaled": 20,
+      "impact_section_scaled": 20,
+      "raw_before": 40,
+      "raw_after": 41,
+      "scaled_before": 740,
+      "scaled_after": 760
+    },
+    {
+      "subject": "Math",
+      "module": 2,
+      "module2_difficulty_current": "hard",
+      "question_id": "65b9dcbc117be8dcc30c3730",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Circle Theorems",
+      "difficulty": "hard",
+      "time_spent": 138170,
+      "impact_total_scaled": 20,
+      "impact_section_scaled": 20,
+      "raw_before": 40,
+      "raw_after": 41,
+      "scaled_before": 740,
+      "scaled_after": 760
+    },
+    {
+      "subject": "Math",
+      "module": 2,
+      "module2_difficulty_current": "hard",
+      "question_id": "65ae7a6d836c92e3d55d8c0d",
+      "unit": "Geometry and Trigonometry",
+      "topic": "Lines, angles, and triangles",
+      "difficulty": "hard",
+      "time_spent": 348497,
+      "impact_total_scaled": 20,
+      "impact_section_scaled": 20,
+      "raw_before": 40,
+      "raw_after": 41,
+      "scaled_before": 740,
+      "scaled_after": 760
+    },
+    {
+      "subject": "Reading and Writing",
+      "module": 1,
+      "module2_difficulty_current": "hard",
+      "question_id": "659041da1d3470ce13e94642",
+      "unit": "Craft and Structure",
+      "topic": "Text structure and purpose",
+      "difficulty": "hard",
+      "time_spent": 58969,
+      "impact_total_scaled": 10,
+      "impact_section_scaled": 10,
+      "raw_before": 50,
+      "raw_after": 51,
+      "scaled_before": 750,
+      "scaled_after": 760
+    }
+  ],
+  "threshold_used": 0.5,
+  "notes": [
+    "Module 1 flips can also upgrade Module 2 from easy→hard if threshold is crossed.",
+    "Impacts include both raw→scaled change and any adaptive difficulty upgrade."
+  ]
+}
